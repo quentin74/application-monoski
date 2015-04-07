@@ -1,0 +1,113 @@
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.910000,41.980000,3,-3,995,-490,-1120,1050,149,-474,738]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.910000,41.980000,3,-3,995,-490,-1120,1050,149,-474,738]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.910000,41.980000,4,-4,995,-350,-1400,1120,148,-480,737]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.910000,41.980000,4,-4,995,-350,-1400,1120,148,-480,737]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.980000,3,-3,996,-630,-1260,1050,148,-474,741]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.980000,3,-3,996,-630,-1260,1050,148,-474,741]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.980000,4,-4,997,-560,-1190,1120,146,-474,741]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.980000,4,-4,997,-560,-1190,1120,146,-474,741]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.980000,4,-4,995,-560,-1260,1120,147,-474,745]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.980000,4,-4,995,-560,-1260,1120,147,-474,745]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,4,-4,997,-420,-1400,1050,146,-477,727]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,4,-4,997,-420,-1400,1050,146,-477,727]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,3,-2,996,-490,-1400,1120,146,-477,738]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,3,-2,996,-490,-1400,1120,146,-477,738]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,1,-3,998,-490,-1260,1120,149,-480,736]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,1,-3,998,-490,-1260,1120,149,-480,736]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,0,-2,996,-630,-1330,1050,139,-481,748]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,0,-2,996,-630,-1330,1050,139,-481,748]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,0,-3,997,-700,-1190,980,139,-481,748]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,0,-3,997,-700,-1190,980,139,-481,748]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,0,-3,997,-560,-1120,980,142,-473,739]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,0,-3,997,-560,-1120,980,142,-473,739]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,1,-2,996,-490,-1190,1050,148,-480,746]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,1,-2,996,-490,-1190,1050,148,-480,746]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,1,-3,995,-490,-1330,980,144,-472,731]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,1,-3,995,-490,-1330,980,144,-472,731]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,2,-4,994,-490,-1190,1050,144,-472,731]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,2,-4,994,-490,-1190,1050,144,-472,731]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,3,-5,995,-630,-1260,1050,145,-476,743]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.870001,41.590000,3,-5,995,-630,-1260,1050,145,-476,743]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.590000,4,-3,996,-280,-1260,1050,148,-476,739]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.590000,4,-3,996,-280,-1260,1050,148,-476,739]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.590000,5,-3,994,-490,-1400,980,140,-476,739]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.590000,5,-3,994,-490,-1400,980,140,-476,739]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.590000,4,-4,995,-560,-1260,910,143,-476,745]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.590000,4,-4,995,-560,-1260,910,143,-476,745]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,3,-4,995,-630,-1190,840,147,-474,735]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,3,-4,995,-630,-1190,840,147,-474,735]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,3,-4,995,-560,-1260,1050,147,-470,737]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,3,-4,995,-560,-1260,1050,147,-470,737]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,3,-3,994,-560,-1330,1050,147,-470,737]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,3,-3,994,-560,-1330,1050,147,-470,737]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,2,-3,996,-560,-1120,980,145,-478,739]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,2,-3,996,-560,-1120,980,145,-478,739]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,3,-3,997,-560,-1120,910,139,-471,741]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,3,-3,997,-560,-1120,910,139,-471,741]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,1,-2,997,-560,-1330,980,151,-476,745]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,1,-2,997,-560,-1330,980,151,-476,745]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,2,-2,996,-420,-1190,1050,142,-475,733]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,2,-2,996,-420,-1190,1050,142,-475,733]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,1,-1,996,-420,-1330,910,146,-478,729]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,1,-1,996,-420,-1330,910,146,-478,729]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,1,-1,995,-490,-1190,980,146,-478,729]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,1,-1,995,-490,-1190,980,146,-478,729]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,1,0,995,-490,-1050,1190,150,-481,738]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","MagY","MagZ"],"points":[[998.992676,24.930000,41.660000,1,0,995,-490,-1050,1190,150,-481,738]]}]' 'http://54.93.89.31:8086/db/monoski-data/series?u=quentin74100&p=monoski2015' 
+
+curl -X POST -d ' [{"name":"capteurs3","columns":["P","T","H","AccX","AccY","AccZ","GyrX","GyrY","GyrZ","MagX","
